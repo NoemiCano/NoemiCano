@@ -30,7 +30,7 @@ Me he incorporado al campus en septiembre de 2026 y estos son los proyectos real
 ### Grado Superior Desarrollo de Aplicaciones Web
 
 #### 1.º Curso (2024-2025)
-- **[74 minutes](https://github.com/NoemiCano/Proyecto-3er-Trimestre)** - Sistema de gestión de relaciones con clientes (CRM) desarrollado como proyecto intermodular de la tercera evaluación. 🌐 [Ver Demo](https://minutes-74.web.app/Lenguaje-de-Marcas/index.html)
+- **[74 minutes](https://github.com/NoemiCano/Proyecto-3er-Trimestre)** - Sistema de gestión de relaciones con clientes (CRM) desarrollado como proyecto intermodular de la tercera evaluación. 🌐 [Ver Demo](https://minutes-74.web.app/Lenguaje-de-Marcas/index.html) (Se puede iniciar sesion con cualquier email y cualquier caracter en la contraseña)
 - **[Billete Directo](https://github.com/NoemiCano/Billete_directo)** - Trabajo grupal colaborativo entre los ciclos de DAW y Marketing para desarrollar el *front-end* de una agencia de viajes. 🌐 [Ver Demo](https://billete-directo.web.app)
 - **[Xtart Manager](https://github.com/NoemiCano/Proyecto_2_Trimestre--PROGRAMACION)** - Proyecto final de la segunda evaluación para la asignatura de Programación en Java. Simulación interactiva de gestión y competición de una liga de fútbol.
 
